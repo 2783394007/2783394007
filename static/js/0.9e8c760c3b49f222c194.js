@@ -1,2 +1,0 @@
-webpackJsonp([0],{"0RrJ":function(t,e,n){"use strict";e.a=function(t){return a.a.create({baseURL:"https://36h5306s26.yicp.fun",timeout:3e4})(t)};var a=n("mtWM")}});
-//# sourceMappingURL=0.9e8c760c3b49f222c194.js.map
